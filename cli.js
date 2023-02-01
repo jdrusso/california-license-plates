@@ -14,8 +14,8 @@ async function main () {
       console.log(chalk.red(query), chalk.gray('is not available :['))
     }
 
-    console.log()
-    console.log({ query, available, src })
+    // console.log()
+    // console.log({ query, available, src })
   }
 }
 
