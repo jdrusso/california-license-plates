@@ -23,4 +23,6 @@ async function main () {
 
 main()
 
-export { search };
+module.exports = {
+    search
+};
