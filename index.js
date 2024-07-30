@@ -1,4 +1,4 @@
-const search = require('./search')
+const search = require('./lib/search')
 
 async function main () {
   const queries = [
